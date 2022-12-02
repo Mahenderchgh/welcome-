@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.welcome-container {
+  background-color: #1e293b;
+  height: 80vh;
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  color: #f0bb03;
+  font-size: 35px;
+  font-family: bree serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.welcome-line {
+  color: #ffffff;
+  font-size: 23px;
+  font-weight: 400;
+  font-family: bree serif;
+  text-align: center;
+}
+.button {
+  background-color: #ffffff;
+  height: 30px;
+  width: 90px;
+  border-radius: 10px;
+  color: #1e293b;
+  font-size: 15px;
+  text-align: center;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+}
